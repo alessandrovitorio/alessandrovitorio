@@ -21,7 +21,6 @@ Tenho experiência com tecnologias modernas e foco em ensinar código limpo, org
 > "Quem ensina com paixão, aprende duas vezes."
 
 Acredito que ensinar é compartilhar, transformar e crescer junto.  
-Por isso criei o projeto **AleDev** — um ambiente onde ensino com base em projetos reais, desafios e colaboração.
 
 ---
 
