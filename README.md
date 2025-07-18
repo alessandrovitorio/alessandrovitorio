@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Alessandro 👨‍🏫</h1>
 
 <p align="center">
-  Professor de Programação Web • Desenvolvedor Full Stack • Criador do projeto <strong>AleDev</strong>
+  Professor de Programação Web • Desenvolvedor Full Stack • <strong>AleDev</strong>
 </p>
 
 ---
