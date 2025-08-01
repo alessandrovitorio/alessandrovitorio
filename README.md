@@ -12,7 +12,7 @@ Sou professor na ETEC Irmã Agostina, apaixonado por ensinar programação de fo
 Tenho experiência com tecnologias modernas e foco em ensinar código limpo, organizado e com propósito.
 
 📍 **ETEC - Centro Paula Souza**  
-🚀 **PHP • TypeScript • React Native • APIs REST • Git e GitHub**
+🚀 **PHP • TypeScript • React • React Native • APIs REST • Git e GitHub • DOCKER • SQL**
 
 ---
 
